@@ -22,32 +22,26 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Java & Javascript. </b>
-              </i>
+                <b className="purple"> Python & Javascript.</b>
+              </i> But along the way, I found my passion in data analysis
+                   — turning raw information into clear, meaningful insights.  
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies Designs & Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Data analysis
-                </b>
-              </i>
+              I enjoy working with tools like <b className="purple">SQL, Power BI, Python </b> and creating interactive dashboards that help 
+              teams make smarter decisions.&nbsp;
+              <br/>
               <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with 
+              and whenever possible i also enjoy experimenting with
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  web development skills
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js</b>
-              </i>
+                <b className="purple">Html, CSS, and JS</b>
+              </i> to bring data to life on the web.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -76,7 +70,7 @@ function Home2() {
               
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/shivangi-b4b94227b"
+                  href="https://www.linkedin.com/in/shivangi-tiwari-b4b94227b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

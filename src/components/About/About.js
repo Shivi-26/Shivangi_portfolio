@@ -5,6 +5,8 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import Achievements from "./Achievements";
+import Experiences from "./Experiences";
 
 function About() {
   return (
@@ -33,6 +35,18 @@ function About() {
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
+        <br/>
+
+         <h1 className="project-heading">
+          Exp<strong className="purple">erience</strong>
+        </h1>
+            <Experiences/>
+       
+<h1 className="project-heading">
+          <strong className="purple">Achieve</strong>ments
+        </h1>
+        <Achievements/>
+
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
@@ -44,7 +58,6 @@ function About() {
         </h1>
         <Toolstack />
 
-        
       </Container>
     </Container>
   );

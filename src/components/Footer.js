@@ -15,7 +15,7 @@ function Footer() {
           <h3>Designed and Developed by Shivangi</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} cseShivangi</h3>
+          <h3>Copyright © {year} Shivangi</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -33,7 +33,7 @@ function Footer() {
           
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/shivangi-b4b94227b"
+                href="https://www.linkedin.com/in/shivangi-tiwari-b4b94227b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

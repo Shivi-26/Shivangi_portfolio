@@ -14,7 +14,7 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         
-        {/* Render GitHub button if ghLink is provided */}
+       
         {props.ghLink && (
           <Button variant="primary" href={props.ghLink} target="_blank">
             <BsGithub /> &nbsp;
@@ -25,7 +25,7 @@ function ProjectCards(props) {
         {"\n"}
         {"\n"}
 
-        {/* Render Demo button if demoLink is provided */}
+       
         {props.demoLink && (
           <Button
             variant="primary"
