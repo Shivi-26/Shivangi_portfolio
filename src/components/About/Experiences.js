@@ -21,36 +21,43 @@ function Experiences() {
       Feb 2024 – Present
     </div>
   </div>
-
-  <ul style={{ marginTop: "0", paddingLeft: "20px" }}>
-    <li>
-      Designed and deployed <span className="purple">10+ interactive Power BI and Excel dashboards</span> for leadership to monitor KPIs like <span className="purple">FCR, NPS, Login Hours, Attrition</span>, improving decision-making by <span className="purple">40%</span>.
-    </li>
-    <li>
-      Automated end-to-end <span className="purple">ETL workflows</span> using <span className="purple">SQL Server Agent</span>, reducing manual data handling and ensuring real-time, error-free data pipelines across teams.
-    </li>
-    <li>
-      Created a custom <span className="purple">Sentiment Analyzer Tool</span> using <span className="purple">Python</span>, integrated with <span className="purple">JavaScript</span>, to analyze advisor chats for <span className="purple">emotion, profanity, politeness, and tone</span>.
-    </li>
-    <li>
-      Delivered a <span className="purple">Performance Monitoring System</span> to forecast vs. actual advisor calls, triggering <span className="purple">auto-email alerts</span> on threshold breaches.
-    </li>
-    <li>
-      Built a <span className="purple">Telephony Attendance Dashboard</span> by integrating data from 3 tools with roster mapping to calculate <span className="purple">login hours</span> and support <span className="purple">payout validation</span>.
-    </li>
-    <li>
-      Developed and maintained backend of the <span className="purple">BI Reportal tool</span> using <span className="purple">SQL</span>, handling workflows, user-role permissions, and <span className="purple">automated mailers</span> — reducing request time by <span className="purple">50%</span>.
-    </li>
-    <li>
-      Created a <span className="purple">Beam Dashboard</span> to visualize <span className="purple">anonymous employee sentiment</span>, aiding HR in assessing morale trends by department.
-    </li>
-    <li>
-      Implemented <span className="purple">SQL Server logon/logoff audit triggers</span> to track access logs and strengthen data compliance.
-    </li>
-    <li>
-      Designed and presented <span className="purple">QBR dashboards</span> and <span className="purple">executive-level PowerPoint decks</span> covering <span className="purple">sales, retention, voice/chat trends</span> across quarters.
-    </li>
-  </ul>
+  <ul style={{ paddingLeft: "20px" }}>
+  <li>
+    Designed and deployed <span className="purple">10+ interactive dashboards</span> using <span className="purple">Power BI</span> and <span className="purple">Excel</span> to visualize KPIs such as <span className="purple">user engagement</span>, <span className="purple">satisfaction scores</span>, <span className="purple">login behavior</span>, and <span className="purple">workforce metrics</span> — improving business decision-making by <span className="purple">40%</span>.
+  </li>
+  
+  <li>
+    Built and automated <span className="purple">ETL pipelines</span> using <span className="purple">SQL Server Agent</span> to enable <span className="purple">real-time data refresh</span>, reducing manual intervention and ensuring accurate insights across <span className="purple">cross-functional teams</span>.
+  </li>
+  
+  <li>
+    Developed a <span className="purple">custom text sentiment analysis tool</span> in <span className="purple">Python</span> (integrated with <span className="purple">JavaScript</span>) for analyzing text data across emotional, grammatical, and sentiment-based parameters to support <span className="purple">internal content quality scoring</span>.
+  </li>
+  
+  <li>
+    Engineered a <span className="purple">performance tracking system</span> that forecasted expected workloads versus actual activity, and automated <span className="purple">email alerts</span> for <span className="purple">anomaly detection</span> and <span className="purple">threshold breaches</span>.
+  </li>
+  
+  <li>
+    Built a <span className="purple">dynamic attendance and login behavior dashboard</span> by integrating <span className="purple">multi-source raw data</span>, calculating session-level metrics, and aligning with internal policies — supporting <span className="purple">payroll and compliance audits</span>.
+  </li>
+  
+  <li>
+    Developed and maintained backend workflows for an internal analytics platform (<span className="purple">BI Reportal</span>) using <span className="purple">SQL</span>, managing <span className="purple">request logs</span>, <span className="purple">access permissions</span>, and <span className="purple">notification systems</span> — reducing report delivery turnaround by <span className="purple">50%</span>.
+  </li>
+  
+  <li>
+    Implemented an <span className="purple">internal feedback analytics dashboard</span> to analyze <span className="purple">anonymous employee sentiment</span> using review data, helping <span className="purple">product and HR teams</span> identify trends in <span className="purple">morale and engagement</span>.
+  </li>
+  
+  <li>
+    Set up <span className="purple">SQL Server logon/logoff audit triggers</span> to capture <span className="purple">user access activity</span> and strengthen <span className="purple">platform auditability</span> and <span className="purple">security</span>.
+  </li>
+  
+  <li>
+    Delivered <span className="purple">quarterly review dashboards</span> and <span className="purple">executive-level presentations</span> analyzing <span className="purple">sales, retention</span>, and <span className="purple">user interaction trends</span> across multiple business units.
+  </li>
+</ul>  
 </li>
 <br/> <br/>
 <li className="about-activity">
